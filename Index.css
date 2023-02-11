@@ -1,0 +1,23 @@
+nav{
+    background: black;
+    color: white;
+    border: 10px solid black;
+    font-size: 13px;
+    font-weight: 100px;
+    font-style: normal;
+    
+}
+
+.h2{
+    font-weight: 100px;
+}
+
+.btn{
+    background: black;
+    color: white;
+    
+}
+.space{
+    padding-left: 20px;
+
+ }
